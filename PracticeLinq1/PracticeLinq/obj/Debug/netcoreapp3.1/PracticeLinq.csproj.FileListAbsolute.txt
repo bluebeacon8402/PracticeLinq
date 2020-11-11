@@ -1,0 +1,13 @@
+C:\Users\Anthe\Desktop\Repos\practicelinq\PracticeLinq1\PracticeLinq\bin\Debug\netcoreapp3.1\PracticeLinq.exe
+C:\Users\Anthe\Desktop\Repos\practicelinq\PracticeLinq1\PracticeLinq\bin\Debug\netcoreapp3.1\PracticeLinq.deps.json
+C:\Users\Anthe\Desktop\Repos\practicelinq\PracticeLinq1\PracticeLinq\bin\Debug\netcoreapp3.1\PracticeLinq.runtimeconfig.json
+C:\Users\Anthe\Desktop\Repos\practicelinq\PracticeLinq1\PracticeLinq\bin\Debug\netcoreapp3.1\PracticeLinq.runtimeconfig.dev.json
+C:\Users\Anthe\Desktop\Repos\practicelinq\PracticeLinq1\PracticeLinq\bin\Debug\netcoreapp3.1\PracticeLinq.dll
+C:\Users\Anthe\Desktop\Repos\practicelinq\PracticeLinq1\PracticeLinq\bin\Debug\netcoreapp3.1\PracticeLinq.pdb
+C:\Users\Anthe\Desktop\Repos\practicelinq\PracticeLinq1\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.csprojAssemblyReference.cache
+C:\Users\Anthe\Desktop\Repos\practicelinq\PracticeLinq1\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.AssemblyInfoInputs.cache
+C:\Users\Anthe\Desktop\Repos\practicelinq\PracticeLinq1\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.AssemblyInfo.cs
+C:\Users\Anthe\Desktop\Repos\practicelinq\PracticeLinq1\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.csproj.CoreCompileInputs.cache
+C:\Users\Anthe\Desktop\Repos\practicelinq\PracticeLinq1\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.dll
+C:\Users\Anthe\Desktop\Repos\practicelinq\PracticeLinq1\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.pdb
+C:\Users\Anthe\Desktop\Repos\practicelinq\PracticeLinq1\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.genruntimeconfig.cache
